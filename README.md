@@ -4,6 +4,7 @@
 
 ## 👀 Interests ...✨
   **Data Science:** Machine Learning, Deep Learning, Natural Language Processing, and Predictive Analytics.
+  
   **Programming:** Python, SQL, Power BI.
   **Visualization:** Creating compelling and informative data visualizations using tools like Matplotlib, Seaborn and Power BI.
 
