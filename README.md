@@ -1,5 +1,4 @@
 # 👋 Hi, I’m @IndhuCherukupalli 
-       "A passionate Data Scientist."
 
 😊Welcome to my GitHub profile!✨ I'm passionate about leveraging data to uncover insights and drive impactful decisions📚✍.
 
@@ -18,8 +17,8 @@
   
 ## 📫 How to reach me ...👇 
 - **Email:** [Email] indhureddycherukupalli@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/indhureddyy/)
-- **Medium:** [@indhureddycherukupalli] (https://medium.com/@indhureddycherukupalli)
+- **LinkedIn:** [LinkedIn Profile] (https://www.linkedin.com/in/indhureddyy/)
+- **Medium:** [Medium Blogs] (https://medium.com/@indhureddycherukupalli)
 - 
 - 😄 Pronouns: She/Her
 
