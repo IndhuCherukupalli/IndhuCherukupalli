@@ -22,7 +22,5 @@
 - **LinkedIn:** [LinkedIn Profile] (https://www.linkedin.com/in/indhureddyy/)
 - **Medium:** [Medium Blogs] (https://medium.com/@indhureddycherukupalli)
  
-## 😄 Pronouns 
-She/Her
 
 😎Feel free to explore my repositories and connect with me. I'm always excited to meet fellow data enthusiasts and professionals!🚀🔎
