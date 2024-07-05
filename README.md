@@ -3,9 +3,9 @@
 😊Welcome to my GitHub profile!✨ I'm passionate about leveraging data to uncover insights and drive impactful decisions📚✍.
 
 ## 👀 Interests ✨
-  **Data Science:** Machine Learning, Deep Learning, Natural Language Processing, and Predictive Analytics.
+  **Data Science:** Machine Learning, Deep Learning, Natural Language Processing and Predictive Analytics.
   
-  **Programming:** Python, SQL, Power BI.
+  **Programming:** Python, SQL.
   
   **Visualization:** Creating compelling and informative data visualizations using tools like Matplotlib, Seaborn and Power BI.
 
