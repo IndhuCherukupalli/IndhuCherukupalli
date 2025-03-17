@@ -8,9 +8,9 @@
 
   
 ## 📫 How to reach me 👇 
-- **Email:** [Email] indhureddycherukupalli@gmail.com
-- **LinkedIn:** [LinkedIn Profile] (https://www.linkedin.com/in/indhureddyy/)
-- **Medium:** [Medium Blogs] (https://medium.com/@indhureddycherukupalli)
+- **Email:** indhureddycherukupalli@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/indhureddyy/)
+- **Medium:** (https://medium.com/@indhureddycherukupalli)
  
 
 😎Feel free to explore my repositories and connect with me. I'm always excited to meet fellow data enthusiasts and professionals!🚀🔎
